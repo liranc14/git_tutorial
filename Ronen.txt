@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+Raccoon
+My name is Ronen and my animal is Raccoon
+=======
 Raccoon
 Oneg
+>>>>>>> 676e96070751fa853f055b6ecc72b050da277e17
